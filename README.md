@@ -19,7 +19,7 @@ You could repeat those commands if you prefer a new setup instead of forking thi
 - npx hardhat
     - create JS/TS project + hardhat config
 
-### Etehrs
+### Ethers
 - npm i --save-dev ethers@5.7.2
 - npm i --save-dev @nomiclabs/hardhat-ethers
     - add to hardhat.config.js (Explain config system)
