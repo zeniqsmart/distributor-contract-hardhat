@@ -1,3 +1,8 @@
+# Deprecation Notice
+
+This template is deprecated in favor of https://github.com/nomo-app/demo-contract/.
+Our new template in the nomo-app organization uses ethers.js-V6, because the whole WebOn-ecosystem has upgraded to ethers.js-V6.
+
 # Distributor Contract Hardhat
 
 This project contains a simple distributor contract written in Solidity.
